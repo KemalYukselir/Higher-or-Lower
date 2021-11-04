@@ -1,5 +1,5 @@
 import random
-from styles import *
+from lib.styles import *
 
 class Game:
     def __init__(self) -> None:

@@ -1,7 +1,7 @@
 import random
-from game import Game
+from lib.game import Game
 import time
-from styles import theMenu, welcomeMessage
+from lib.styles import theMenu, welcomeMessage
 import sys
 
 class Main:
